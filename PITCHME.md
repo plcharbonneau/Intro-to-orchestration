@@ -18,3 +18,6 @@ To prevent similar issues from occurring in the future, the AWS team modified it
 3. Create virtual servers, pools, etc.
 4. Repeat x times over the course of a week (while still doing your job as efficiently as possible)
 ---
+| #Imperative Model |
+| Imperative – What we’ve done for years (scripting, iRules, etc.) Imperative methodology implies that you define the flow of an operation implicitly. It also implies that domain-specific knowledge is required to interact with the system. | Content Cell  |
+What domain-specific knowledge is required to make this sandwich? 
