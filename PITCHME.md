@@ -1,4 +1,5 @@
 ---
-Myslide 1
+##Myslide 1
+This is just some text
 ---
 My Slide 2
