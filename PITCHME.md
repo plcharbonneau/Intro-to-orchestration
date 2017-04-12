@@ -24,7 +24,7 @@ To prevent similar issues from occurring in the future, the AWS team modified it
   </tr>
   <tr>
     <td>Imperative – What we’ve done for years (scripting, iRules, etc.) Imperative methodology implies that you define the flow of an operation implicitly. It also implies that domain-specific knowledge is required to interact with the system.</td>
-    <td>Smith</td>
+    <td>![Logo](assets/grilled_cheese.jpg)</td>
   </tr>
   <tr>
   <th>What domain-specific knowledge is required to make this sandwich?</th>
