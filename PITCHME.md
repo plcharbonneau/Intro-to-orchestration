@@ -26,13 +26,10 @@ What domain-specific knowledge is required to make this sandwich?
 
 <table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+  <th><h1>Imperative Model</h1></th>
   </tr>
   <tr>
     <td>Jill</td>
     <td>Smith</td>
-    <td>50</td>
   </tr>
 </table>
